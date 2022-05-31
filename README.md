@@ -1,5 +1,4 @@
-[[![Build Status](https://dev.azure.com/chymesdevops/IaC%20-%20Microsoft%20docs/_apis/build/status/Tcheemer.pipelines-java?branchName=main)](https://dev.azure.com/chymesdevops/IaC%20-%20Microsoft%20docs/_build/latest?definitionId=14&branchName=main)](https://dev.azure.com/chymesdevops/IaC%20-%20Microsoft%20docs/_apis/build/status/Tcheemer.pipelines-java?branchName=main)
-
+[![Build Status](https://dev.azure.com/chymesdevops/IaC%20-%20Microsoft%20docs/_apis/build/status/Tcheemer.pipelines-java?branchName=main)](https://dev.azure.com/chymesdevops/IaC%20-%20Microsoft%20docs/_build/latest?definitionId=14&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
